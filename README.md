@@ -1,6 +1,6 @@
 # Project_ResilienceQuant
 May, 2021
-For HEC Paris Masters Thesis
+For HEC Paris Masters Thesis  
 Under the supervision of Professor Didier Delaigue
 Coded by Adam Benabbou
 
